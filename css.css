@@ -1,0 +1,16 @@
+.nadpis
+{
+ text-align: center;
+ color: #00bfff;
+}
+.odkazy
+{
+    color: royalblue;
+    margin-left: 4cm;
+}
+body
+{
+    background-image: url(https://www.loketmx.com/photos/05.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
